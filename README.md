@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Elif Savar
 
-### Industrial Engineer | ESMT Berlin Student | Operations & Business Enthusiast
+### Industrial Engineer | ESMT Berlin MAAI Student | Operations & Business Enthusiast
 
 I'm an Industrial Engineering graduate with professional experience in operations, process improvement, project management, and customer-focused business environments.
 
