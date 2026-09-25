@@ -124,7 +124,7 @@ I worked on projects involving operational data, productivity metrics, ROI calcu
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
-www.linkedin.com/in/elif-savar-148255158
+(www.linkedin.com/in/elif-savar-148255158)
 
 Feel free to explore my repositories and connect with me on LinkedIn!
 
